@@ -19,7 +19,7 @@ Challenge & Membership (Web Fullstack/JavaScript)
 <br/>
 <br/>
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=E6E6E6&hide_border=true' />
+  <img src='https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=F5A9BC&text_color=F6CED8&icon_color=F5A9BC&bg_color=FFFFFF&hide_border=false&disable_animations=false' />
 </p>
 
 <p align='center'>
