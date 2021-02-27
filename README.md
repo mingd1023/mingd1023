@@ -1,8 +1,8 @@
-### Hi there 👋
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false)
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false)
 
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE9EF&hide_border=TRUE)
+  ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE9EF&hide_border=TRUE)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
