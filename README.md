@@ -18,6 +18,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 19 February, 2021 - 26 February, 2021
+
 JSX          30 hrs 15 mins  ███████████████████░░░░░░   75.82 % 
 JavaScript   4 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 Python       4 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
