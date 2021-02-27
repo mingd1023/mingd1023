@@ -1,8 +1,20 @@
-
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FBEFF5&text=Minji%20Kim%&fontSize=80&height=200&fontColor=848484&animation=fadeIn" />
+</p>
   
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false)
+<br/>
 
-  ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE9EF&hide_border=TRUE)
+<p align='center'>
+  <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false' />
+</p>
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FBEFF5&hide_border=false' />
+</p>
+
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FBEFF5&height=100&animation=fadeIn&section=footer" />
+</p>
 
 <!--START_SECTION:waka-->
 ```text
@@ -13,21 +25,4 @@ JSON         21 mins         ▒░░░░░░░░░░░░░░░░
 CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
-
-<!--
-**mingd1023/mingd1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+<br/>
