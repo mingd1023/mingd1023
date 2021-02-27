@@ -5,6 +5,13 @@
   ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=FFE9EF&hide_border=TRUE)
 
 <!--START_SECTION:waka-->
+```text
+JSX          30 hrs 15 mins  ███████████████████░░░░░░   75.82 % 
+JavaScript   4 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Python       4 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
