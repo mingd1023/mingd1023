@@ -28,13 +28,13 @@ Challenge & Membership (Web Fullstack/JavaScript)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2021 - 11 March, 2021
+Week: 05 March, 2021 - 12 March, 2021
 
-JSX          16 hrs 12 mins  ████████████████▒░░░░░░░░   65.70 % 
-JavaScript   7 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Python       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSX          14 hrs 15 mins  ██████████████████▒░░░░░░   72.96 % 
+JavaScript   4 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Python       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
 <br/>
