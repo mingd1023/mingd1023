@@ -3,10 +3,6 @@
 </p> -->
 
 <p align='center'>
-  <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false' />
-</p>
-<br/>
-<p align='center'>
 <b>Yonsei University</b>
 <br>
 Bachelor's Degree of Korean Lang.&Lit. / Econ. / CS
@@ -17,6 +13,10 @@ Bachelor's Degree of Korean Lang.&Lit. / Econ. / CS
 Challenge & Membership (Web Fullstack/JavaScript)
 </p>
 <br/>
+<br/>
+<p align='center'>
+  <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingd1023&count_bg=%23FFE0E0&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%5E%7E%5E&edge_flat=false' />
+</p>
 <br/>
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=mingd1023&hide=stars&show_icons=true&title_color=F5A9BC&text_color=F6CED8&icon_color=F5A9BC&bg_color=FFFFFF&hide_border=false&disable_animations=false' />
